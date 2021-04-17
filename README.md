@@ -1,2 +1,3 @@
 # matcha-project
-practicing web design
+
+This project is to practice creating web sites / landing pages.  The website will mainly use HTML/CSS/Bootstrap
