@@ -1,3 +1,15 @@
 h1 {
 color: #798777;
 }
+
+#header{
+    background-color: #efefef;
+    border-right: 300px solid #bdd2b6;
+}
+
+img {
+    position: relative;
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+}
