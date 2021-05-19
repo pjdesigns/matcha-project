@@ -7,6 +7,18 @@ color: #798777;
     border-right: 300px solid #bdd2b6;
 }
 
+#reviews{
+    background-color: #efefef;
+    border-top: 75px solid #bdd2b6;
+
+}
+
+#contact{
+    background-color: #efefef;
+    border-left: 300px solid #bdd2b6;
+
+}
+
 img {
     position: relative;
     border-radius: 50%;
